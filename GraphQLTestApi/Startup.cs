@@ -71,6 +71,7 @@ namespace GraphQLTestApi
                 endpoints.MapControllers();
                 endpoints.MapGraphQL("/api/graphql");
             });
+
         }
     }
 }

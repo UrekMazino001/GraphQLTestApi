@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLTestApi", "GraphQLTestApi\GraphQLTestApi.csproj", "{9DA18FE7-6671-450C-8740-5FEADF6955E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQLTestApi", "GraphQLTestApi\GraphQLTestApi.csproj", "{9DA18FE7-6671-450C-8740-5FEADF6955E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotChocolateGQL", "HotChocolateGQL\HotChocolateGQL.csproj", "{EDC327A7-0766-4A60-9E4F-7D0E2A26B12F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9DA18FE7-6671-450C-8740-5FEADF6955E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA18FE7-6671-450C-8740-5FEADF6955E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA18FE7-6671-450C-8740-5FEADF6955E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC327A7-0766-4A60-9E4F-7D0E2A26B12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC327A7-0766-4A60-9E4F-7D0E2A26B12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC327A7-0766-4A60-9E4F-7D0E2A26B12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC327A7-0766-4A60-9E4F-7D0E2A26B12F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
